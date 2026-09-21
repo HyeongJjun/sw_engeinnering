@@ -1,0 +1,17 @@
+# 가상환경
+sw_venv/
+.venv/
+venv/
+
+# Python 캐시
+__pycache__/
+*.pyc
+
+# 에디터 / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 환경변수
+.env
